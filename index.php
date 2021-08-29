@@ -6,7 +6,7 @@
 		<meta name="keywords" content="keywords"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<meta http-equiv="X-UA-Compatible" content="ie=edge"/>
-		<link rel="shortcut icon" href="assets/img/logo/AIDAMIGO SVG.svg"/>
+		<link rel="shortcut icon" href="assets/img/logo/AIDAMIGO SVG BACKGROUNDLESS.svg"/>
 		<title>Aid Amigo - #1 Fundraising Company</title>
 		<!-- styles-->
 		<link rel="stylesheet" href="assets/css/styles.min.css"/>
@@ -49,23 +49,13 @@
 					</svg></span>
 				<div class="aside-dropdown__item d-lg-none d-block">
 					<ul class="aside-menu">
-						<li class="aside-menu__item aside-menu__item--has-child aside-menu__item--active"><a class="aside-menu__link" href="javascript:void(0);"><span>Home</span></a>
-							<!-- sub menu start-->
-							<ul class="aside-menu__sub-list">
-								<li class="item--active"><a href="index.html"><span>01 Home Color Style</span></a></li>
-								<li><a href="front_2.html"> <span>02 Home Color Style</span></a></li>
-								<li><a href="front_3.html"><span>03 Home Color Style</span></a></li>
-								<li><a href="mono/index.html"><span>04 Home Monochrome</span></a></li>
-								<li><a href="mono/front_2.html"><span>05 Home Monochrome</span></a></li>
-								<li><a href="mono/front_3.html"><span>06 Home Monochrome</span></a></li>
-							</ul>
-							<!-- sub menu end-->
+						<li class="aside-menu__item aside-menu__item--has-child aside-menu__item--active"><a class="aside-menu__link" href="index.php"><span>Home</span></a>
 						</li>
 						<li class="aside-menu__item aside-menu__item--has-child"><a class="aside-menu__link" href="javascript:void(0);"><span>Pages</span></a>
 							<!-- sub menu start-->
 							<ul class="aside-menu__sub-list">
 								<li><a href="about.html"><span>About</span></a></li>
-								<li><a href="typography.html"> <span>Typography</span></a></li>
+								<!-- <li><a href="typography.html"> <span>Typography</span></a></li>
 								<li><a href="donors.html"><span>Donors & Partners</span></a></li>
 								<li><a href="volunteer.html"><span>Become a Volunteer</span></a></li>
 								<li><a href="events.html"><span>Events</span></a></li>
@@ -77,7 +67,7 @@
 								<li><a href="gallery.html"><span>Gallery</span></a></li>
 								<li><a href="pricing.html"><span>Pricing Plans</span></a></li>
 								<li><a href="faq.html"><span>FAQ</span></a></li>
-								<li><a href="404.html"><span>404 Page</span></a></li>
+								<li><a href="404.html"><span>404 Page</span></a></li> -->
 							</ul>
 							<!-- sub menu end-->
 						</li>
@@ -103,17 +93,18 @@
 							<!-- sub menu end-->
 						</li>
 						<li class="aside-menu__item"><a class="aside-menu__link" href="contacts.html"><span>Contacts</span></a></li>
-						<li class="aside-menu__item aside-menu__item--has-child"><a class="aside-menu__link" href="javascript:void(0);"><span>Elements</span></a>
+						<li class="aside-menu__item aside-menu__item--has-child"><a class="aside-menu__link" href="javascript:void(0);">
+							<span>Signup/Login</span></a>
 							<!-- sub menu start-->
 							<ul class="aside-menu__sub-list">
-								<li><a href="alerts.html"><span>Alerts</span></a></li>
-								<li><a href="team.html"><span>Team</span></a></li>
-								<li><a href="testimonials.html"><span>Testimonials</span></a></li>
+								<li><a href="alerts.html"><span>Signup</span></a></li>
+								<li><a href="team.html"><span>Login</span></a></li>
+								<!-- <li><a href="testimonials.html"><span>Testimonials</span></a></li>
 								<li><a href="accordion.html"><span>Accordion</span></a></li>
 								<li><a href="tabs.html"><span>Tabs</span></a></li>
 								<li><a href="pricing-plan.html"><span>Pricing Plan</span></a></li>
 								<li><a href="counters.html"><span>Counters</span></a></li>
-								<li><a href="icons.html"><span>Icons</span></a></li>
+								<li><a href="icons.html"><span>Icons</span></a></li> -->
 							</ul>
 							<!-- sub menu end-->
 						</li>
@@ -122,15 +113,14 @@
 				<div class="aside-dropdown__item">
 					<!-- aside menu start-->
 					<ul class="aside-menu">
-						<li class="aside-menu__item"><a class="aside-menu__link" href="#">Documents</a></li>
-						<li class="aside-menu__item"><a class="aside-menu__link" href="#">Information</a></li>
-						<li class="aside-menu__item"><a class="aside-menu__link" href="#">Additional Pages</a></li>
-						<li class="aside-menu__item"><a class="aside-menu__link" href="#">Elements</a></li>
-						<li class="aside-menu__item"><a class="aside-menu__link" href="#">Contacts</a></li>
+						<li class="aside-menu__item"><a class="aside-menu__link" href="#">Get Started</a></li>
+						<li class="aside-menu__item"><a class="aside-menu__link" href="#">About</a></li>
+						<li class="aside-menu__item"><a class="aside-menu__link" href="#">Donate</a></li>
+						<!-- <li class="aside-menu__item"><a class="aside-menu__link" href="#">Contacts</a></li> -->
 					</ul>
 					<!-- aside menu end-->
-					<div class="aside-inner"><span class="aside-inner__title">Email</span><a class="aside-inner__link" href="mailto:support@helpo.org">support@helpo.org</a></div>
-					<div class="aside-inner"><span class="aside-inner__title">Phone numbers</span><a class="aside-inner__link" href="tel:+180012345678">+ 1800 - 123 456 78</a><a class="aside-inner__link" href="tel:+18009756511">+ 1800 - 975 65 11</a></div>
+					<div class="aside-inner"><span class="aside-inner__title">Email</span><a class="aside-inner__link" href="mailto:support@aidamigo.com">support@aidamigo.com</a></div>
+					<div class="aside-inner"><span class="aside-inner__title">Phone numbers</span><a class="aside-inner__link" href="tel:+2349041215181">+ 234 - 904 121 5181</a><a class="aside-inner__link" href="tel:+2348162399614">+ 234 - 8162 399 614</a></div>
 					<ul class="aside-socials">
 						<li class="aside-socials__item"><a class="aside-socials__link" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 						<li class="aside-socials__item"><a class="aside-socials__link" href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
@@ -138,7 +128,7 @@
 						<li class="aside-socials__item"><a class="aside-socials__link" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
-				<div class="aside-dropdown__item"><a class="button button--squared" href="#"><span>Donate</span></a></div>
+				<div class="aside-dropdown__item"><a class="button button--squared" href="#"><span>Get Started</span></a></div>
 				</div>
 			</div>
 			<!-- aside dropdown end-->
@@ -156,23 +146,23 @@
 							<!-- main menu start-->
 							<nav>
 								<ul class="main-menu">
-									<li class="main-menu__item main-menu__item--has-child main-menu__item--active"><a class="main-menu__link" href="javascript:void(0);"><span>Home</span></a>
+									<li class="main-menu__item main-menu__item--has-child main-menu__item--active"><a class="main-menu__link" href="javascript:void(0);"><span>Welcome</span></a>
 										<!-- sub menu start-->
 										<ul class="main-menu__sub-list">
-											<li class="item--active"><a href="index.html"><span>01 Home Color Style</span></a></li>
-											<li><a href="front_2.html"> <span>02 Home Color Style</span></a></li>
+											<li class="item--active"><a href="index.php"><span>Home Page</span></a></li>
+											<!-- <li><a href="front_2.html"> <span>02 Home Color Style</span></a></li>
 											<li><a href="front_3.html"><span>03 Home Color Style</span></a></li>
 											<li><a href="mono/index.html"><span>04 Home Monochrome</span></a></li>
 											<li><a href="mono/front_2.html"><span>05 Home Monochrome</span></a></li>
-											<li><a href="mono/front_3.html"><span>06 Home Monochrome</span></a></li>
+											<li><a href="mono/front_3.html"><span>06 Home Monochrome</span></a></li> -->
 										</ul>
 										<!-- sub menu end-->
 									</li>
-									<li class="main-menu__item main-menu__item--has-child"><a class="main-menu__link" href="javascript:void(0);"><span>Pages</span></a>
+									<li class="main-menu__item main-menu__item--has-child"><a class="main-menu__link" href="javascript:void(0);"><span>About</span></a>
 										<!-- sub menu start-->
 										<ul class="main-menu__sub-list sub-list--style-2">
 											<li><a href="about.html"><span>About</span></a></li>
-											<li><a href="typography.html"> <span>Typography</span></a></li>
+											<!-- <li><a href="typography.html"> <span>Typography</span></a></li>
 											<li><a href="donors.html"><span>Donors & Partners</span></a></li>
 											<li><a href="volunteer.html"><span>Become a Volunteer</span></a></li>
 											<li><a href="team-member.html"><span>Team Member</span></a></li>
@@ -185,7 +175,7 @@
 											<li><a href="gallery.html"><span>Gallery</span></a></li>
 											<li><a href="pricing.html"><span>Pricing Plans</span></a></li>
 											<li><a href="faq.html"><span>FAQ</span></a></li>
-											<li><a href="404.html"><span>404 Page</span></a></li>
+											<li><a href="404.html"><span>404 Page</span></a></li> -->
 										</ul>
 										<!-- sub menu end-->
 									</li>
@@ -199,29 +189,18 @@
 										</ul>
 										<!-- sub menu end-->
 									</li>
-									<li class="main-menu__item main-menu__item--has-child"><a class="main-menu__link" href="javascript:void(0);"><span>Shop</span></a>
+									<li class="main-menu__item"><a class="main-menu__link" href="contacts.php"><span>Contacts</span></a></li>
+									<li class="main-menu__item main-menu__item--has-child"><a class="main-menu__link" href="javascript:void(0);"><span>Signup/Login</span></a>
 										<!-- sub menu start-->
 										<ul class="main-menu__sub-list">
-											<li><a href="shop.html"><span>Catalog Page</span></a></li>
-											<li><a href="shop-product.html"><span>Shop Product</span></a></li>
-											<li><a href="shop-cart.html"><span>Shop Cart</span></a></li>
-											<li><a href="shop-checkout.html"><span>Shop Checkout</span></a></li>
-											<li><a href="shop-account.html"><span>Shop Account</span></a></li>
-										</ul>
-										<!-- sub menu end-->
-									</li>
-									<li class="main-menu__item"><a class="main-menu__link" href="contacts.html"><span>Contacts</span></a></li>
-									<li class="main-menu__item main-menu__item--has-child"><a class="main-menu__link" href="javascript:void(0);"><span>Elements</span></a>
-										<!-- sub menu start-->
-										<ul class="main-menu__sub-list">
-											<li><a href="alerts.html"><span>Alerts</span></a></li>
-											<li><a href="team.html"><span>Team</span></a></li>
-											<li><a href="testimonials.html"><span>Testimonials</span></a></li>
+											<li><a href="alerts.html"><span>Login</span></a></li>
+											<li><a href="team.html"><span>Signup</span></a></li>
+											<!-- <li><a href="testimonials.html"><span>Testimonials</span></a></li>
 											<li><a href="accordion.html"><span>Accordion</span></a></li>
 											<li><a href="tabs.html"><span>Tabs</span></a></li>
 											<li><a href="pricing-plan.html"><span>Pricing Plan</span></a></li>
 											<li><a href="counters.html"><span>Counters</span></a></li>
-											<li><a href="icons.html"><span>Icons</span></a></li>
+											<li><a href="icons.html"><span>Icons</span></a></li> -->
 										</ul>
 										<!-- sub menu end-->
 									</li>
@@ -244,7 +223,7 @@
 							<!-- lang select end-->
 							<div class="dropdown-trigger d-block d-sm-none">
 								<div class="dropdown-trigger__item"></div>
-							</div><a class="button button--squared" href="#"><span>Donate</span></a>
+							</div><a class="button button--squared" href="#"><span>Raise Fund</span></a>
 						</div>
 					</div>
 				</div>
@@ -336,10 +315,10 @@
 					<div class="promo-pannel"><a class="anchor promo-pannel__anchor" href="#about"> <span>Scroll Down</span></a>
 						<div class="promo-pannel__video"><img class="img--bg" src="assets/img/video_block.jpg" alt="image"/><a class="video-trigger" href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"><span>Watch our video</span><i class="fa fa-play" aria-hidden="true"></i></a></div>
 						<div class="promo-pannel__phones">
-							<p class="promo-pannel__title">Phone numbers</p><a class="promo-pannel__link" href="tel:+180012345678">+ 1800 - 123 456 78</a><a class="promo-pannel__link" href="tel:+18009756511">+ 1800 - 975 65 11</a>
+							<p class="promo-pannel__title">Phone numbers</p><a class="promo-pannel__link" href="tel:+2349041215181">+ 234 - 904 121 5181</a><a class="promo-pannel__link" href="tel:+2348162399614">+ 234 - 8162 399 614</a>
 						</div>
 						<div class="promo-pannel__email">
-							<p class="promo-pannel__title">Email</p><a class="promo-pannel__link" href="mailto:support@helpo.org">support@helpo.org</a>
+							<p class="promo-pannel__title">Email</p><a class="promo-pannel__link" href="mailto:support@aidamigo.com">support@aidamigo.com</a>
 						</div>
 					</div>
 					<!-- promo pannel end-->
@@ -969,7 +948,7 @@
 							<div class="footer-contacts">
 								<p class="footer-contacts__address">Elliott Ave, Parkville VIC 3052, Melbourne Canada</p>
 								<p class="footer-contacts__phone">Phone: <a href="tel:+31859644725">+31 85 964 47 25</a></p>
-								<p class="footer-contacts__mail">Email: <a href="mailto:support@helpo.org">support@helpo.org</a></p>
+								<p class="footer-contacts__mail">Email: <a href="mailto:support@aidamigo.com">support@aidamigo.com</a></p>
 							</div>
 						</div>
 						<div class="col-sm-6 col-lg-3">
